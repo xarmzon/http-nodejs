@@ -5,6 +5,6 @@
   "author": "Aiden Bai",
   "license": "MIT",
   "scripts": {
-    "start": "node api.js && node server.mjs"
+    "start": "node server.mjs"
   }
 }
